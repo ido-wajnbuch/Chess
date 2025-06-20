@@ -1,0 +1,16 @@
+#board
+{
+    /*layout*/
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+
+    /*size*/
+    width: 25px;    
+    height: 25px;
+    
+    /*bordering*/
+    border: 1px solid black;
+    background: wheat;  
+}

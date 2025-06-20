@@ -7,8 +7,8 @@
   top: 0; left: 0; bottom: 0; right: 0;
   position: absolute;
 
-  width: 45vw;
-  height: 90vh;
+  width: 540px;
+  height: 540px;
 
   border: 4px solid black;
   background: wheat;

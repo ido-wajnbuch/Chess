@@ -6,7 +6,9 @@ import './board/Board.css';
 
 function App() {
   return (
-    <div id="board-container"></div>
+    <div id="board-container">
+      <Board/>
+    </div>
   );
 }
 

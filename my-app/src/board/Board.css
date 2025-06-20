@@ -6,11 +6,12 @@
     display: flex;
     text-align: center;
 
+
     /*size*/
-    width: 25px;    
-    height: 25px;
+    width: 42vw;    
+    height: 84vh;
     
     /*bordering*/
-    border: 1px solid black;
+    border: 2px solid black;
     background: wheat;  
 }
